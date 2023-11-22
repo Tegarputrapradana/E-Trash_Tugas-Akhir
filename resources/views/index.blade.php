@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Gardener - Gardening Website Template</title>
+    <title>E-TRASH</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -14,7 +14,9 @@
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500;600;700&family=Open+Sans:wght@400;500&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Jost:wght@500;600;700&family=Open+Sans:wght@400;500&display=swap"
+        rel="stylesheet">
 
     <!-- Icon Font Stylesheet -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
@@ -35,7 +37,8 @@
 
 <body>
     <!-- Spinner Start -->
-    <div id="spinner" class="bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+    <div id="spinner"
+        class="bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-border text-primary" role="status" style="width: 3rem; height: 3rem;"></div>
     </div>
     <!-- Spinner End -->
@@ -71,7 +74,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
         <a href="index.html" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
-            <h1 class="m-0">Gardener</h1>
+            <h1 class="m-0">E Trash</h1>
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -79,11 +82,8 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="index.html" class="nav-item nav-link active">Home</a>
-                <a href="about.html" class="nav-item nav-link">About</a>
-                <a href="service.html" class="nav-item nav-link">Services</a>
-                <a href="project.html" class="nav-item nav-link">Projects</a>
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Layanan</a>
                     <div class="dropdown-menu bg-light m-0">
                         <a href="feature.html" class="dropdown-item">Features</a>
                         <a href="quote.html" class="dropdown-item">Free Quote</a>
@@ -92,9 +92,9 @@
                         <a href="404.html" class="dropdown-item">404 Page</a>
                     </div>
                 </div>
+                <a href="about.html" class="nav-item nav-link">About</a>
                 <a href="contact.html" class="nav-item nav-link">Contact</a>
             </div>
-            <a href="" class="btn btn-primary py-4 px-lg-4 rounded-0 d-none d-lg-block">Get A Quote<i class="fa fa-arrow-right ms-3"></i></a>
         </div>
     </nav>
     <!-- Navbar End -->
@@ -110,7 +110,8 @@
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
-                                    <h1 class="display-1 text-white mb-5 animated slideInDown">Make Your Home Like Garden</h1>
+                                    <h1 class="display-1 text-white mb-5 animated slideInDown">Make Your Home Like
+                                        Garden</h1>
                                     <a href="" class="btn btn-primary py-sm-3 px-sm-4">Explore More</a>
                                 </div>
                             </div>
@@ -123,7 +124,8 @@
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-lg-7">
-                                    <h1 class="display-1 text-white mb-5 animated slideInDown">Create Your Own Small Garden At Home</h1>
+                                    <h1 class="display-1 text-white mb-5 animated slideInDown">Create Your Own Small
+                                        Garden At Home</h1>
                                     <a href="" class="btn btn-primary py-sm-3 px-sm-4">Explore More</a>
                                 </div>
                             </div>
@@ -206,7 +208,9 @@
                     <h1 class="display-1 text-primary mb-0">25</h1>
                     <p class="text-primary mb-4">Year of Experience</p>
                     <h1 class="display-5 mb-4">We Make Your Home Like A Garden</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam
+                        et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat
+                        amet</p>
                     <a class="btn btn-primary py-3 px-4" href="">Explore More</a>
                 </div>
                 <div class="col-lg-3 col-md-12 wow fadeInUp" data-wow-delay="0.5s">
@@ -266,7 +270,9 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <p class="fs-5 fw-bold text-primary">Why Choosing Us!</p>
                     <h1 class="display-5 mb-4">Few Reasons Why People Choosing Us!</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam
+                        et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat
+                        amet</p>
                     <a class="btn btn-primary py-3 px-4" href="">Explore More</a>
                 </div>
                 <div class="col-lg-6">
@@ -274,16 +280,20 @@
                         <div class="col-md-6">
                             <div class="row g-4">
                                 <div class="col-12 wow fadeIn" data-wow-delay="0.3s">
-                                    <div class="text-center rounded py-5 px-4" style="box-shadow: 0 0 45px rgba(0,0,0,.08);">
-                                        <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 90px; height: 90px;">
+                                    <div class="text-center rounded py-5 px-4"
+                                        style="box-shadow: 0 0 45px rgba(0,0,0,.08);">
+                                        <div class="btn-square bg-light rounded-circle mx-auto mb-4"
+                                            style="width: 90px; height: 90px;">
                                             <i class="fa fa-check fa-3x text-primary"></i>
                                         </div>
                                         <h4 class="mb-0">100% Satisfaction</h4>
                                     </div>
                                 </div>
                                 <div class="col-12 wow fadeIn" data-wow-delay="0.5s">
-                                    <div class="text-center rounded py-5 px-4" style="box-shadow: 0 0 45px rgba(0,0,0,.08);">
-                                        <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 90px; height: 90px;">
+                                    <div class="text-center rounded py-5 px-4"
+                                        style="box-shadow: 0 0 45px rgba(0,0,0,.08);">
+                                        <div class="btn-square bg-light rounded-circle mx-auto mb-4"
+                                            style="width: 90px; height: 90px;">
                                             <i class="fa fa-users fa-3x text-primary"></i>
                                         </div>
                                         <h4 class="mb-0">Dedicated Team</h4>
@@ -293,7 +303,8 @@
                         </div>
                         <div class="col-md-6 wow fadeIn" data-wow-delay="0.7s">
                             <div class="text-center rounded py-5 px-4" style="box-shadow: 0 0 45px rgba(0,0,0,.08);">
-                                <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 90px; height: 90px;">
+                                <div class="btn-square bg-light rounded-circle mx-auto mb-4"
+                                    style="width: 90px; height: 90px;">
                                     <i class="fa fa-tools fa-3x text-primary"></i>
                                 </div>
                                 <h4 class="mb-0">Modern Equipment</h4>
@@ -325,8 +336,10 @@
                                 <img class="img-fluid" src="img/icon/icon-3.png" alt="Icon">
                             </div>
                             <h4 class="mb-3">Landscaping</h4>
-                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Read More</a>
+                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
+                                stet diam sed stet.</p>
+                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Read
+                                More</a>
                         </div>
                     </div>
                 </div>
@@ -340,8 +353,10 @@
                                 <img class="img-fluid" src="img/icon/icon-6.png" alt="Icon">
                             </div>
                             <h4 class="mb-3">Pruning plants</h4>
-                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Read More</a>
+                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
+                                stet diam sed stet.</p>
+                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Read
+                                More</a>
                         </div>
                     </div>
                 </div>
@@ -355,8 +370,10 @@
                                 <img class="img-fluid" src="img/icon/icon-5.png" alt="Icon">
                             </div>
                             <h4 class="mb-3">Irrigation & Drainage</h4>
-                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Read More</a>
+                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
+                                stet diam sed stet.</p>
+                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Read
+                                More</a>
                         </div>
                     </div>
                 </div>
@@ -370,8 +387,10 @@
                                 <img class="img-fluid" src="img/icon/icon-4.png" alt="Icon">
                             </div>
                             <h4 class="mb-3">Garden Maintenance </h4>
-                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Read More</a>
+                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
+                                stet diam sed stet.</p>
+                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Read
+                                More</a>
                         </div>
                     </div>
                 </div>
@@ -385,8 +404,10 @@
                                 <img class="img-fluid" src="img/icon/icon-8.png" alt="Icon">
                             </div>
                             <h4 class="mb-3">Green Technology</h4>
-                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Read More</a>
+                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
+                                stet diam sed stet.</p>
+                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Read
+                                More</a>
                         </div>
                     </div>
                 </div>
@@ -400,8 +421,10 @@
                                 <img class="img-fluid" src="img/icon/icon-2.png" alt="Icon">
                             </div>
                             <h4 class="mb-3">Urban Gardening</h4>
-                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Read More</a>
+                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
+                                stet diam sed stet.</p>
+                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Read
+                                More</a>
                         </div>
                     </div>
                 </div>
@@ -421,31 +444,36 @@
                         <div class="row g-3">
                             <div class="col-sm-6">
                                 <div class="form-floating">
-                                    <input type="text" class="form-control bg-light border-0" id="gname" placeholder="Gurdian Name">
+                                    <input type="text" class="form-control bg-light border-0" id="gname"
+                                        placeholder="Gurdian Name">
                                     <label for="gname">Your Name</label>
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="form-floating">
-                                    <input type="email" class="form-control bg-light border-0" id="gmail" placeholder="Gurdian Email">
+                                    <input type="email" class="form-control bg-light border-0" id="gmail"
+                                        placeholder="Gurdian Email">
                                     <label for="gmail">Your Email</label>
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="form-floating">
-                                    <input type="text" class="form-control bg-light border-0" id="cname" placeholder="Child Name">
+                                    <input type="text" class="form-control bg-light border-0" id="cname"
+                                        placeholder="Child Name">
                                     <label for="cname">Your Mobile</label>
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="form-floating">
-                                    <input type="text" class="form-control bg-light border-0" id="cage" placeholder="Child Age">
+                                    <input type="text" class="form-control bg-light border-0" id="cage"
+                                        placeholder="Child Age">
                                     <label for="cage">Service Type</label>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
-                                    <textarea class="form-control bg-light border-0" placeholder="Leave a message here" id="message" style="height: 100px"></textarea>
+                                    <textarea class="form-control bg-light border-0" placeholder="Leave a message here" id="message"
+                                        style="height: 100px"></textarea>
                                     <label for="message">Message</label>
                                 </div>
                             </div>
@@ -484,8 +512,10 @@
                         <div class="portfolio-text">
                             <h4 class="text-white mb-4">Landscaping</h4>
                             <div class="d-flex">
-                                <a class="btn btn-lg-square rounded-circle mx-2" href="img/service-1.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-lg-square rounded-circle mx-2" href=""><i class="fa fa-link"></i></a>
+                                <a class="btn btn-lg-square rounded-circle mx-2" href="img/service-1.jpg"
+                                    data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                                <a class="btn btn-lg-square rounded-circle mx-2" href=""><i
+                                        class="fa fa-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -496,8 +526,10 @@
                         <div class="portfolio-text">
                             <h4 class="text-white mb-4">Pruning plants</h4>
                             <div class="d-flex">
-                                <a class="btn btn-lg-square rounded-circle mx-2" href="img/service-2.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-lg-square rounded-circle mx-2" href=""><i class="fa fa-link"></i></a>
+                                <a class="btn btn-lg-square rounded-circle mx-2" href="img/service-2.jpg"
+                                    data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                                <a class="btn btn-lg-square rounded-circle mx-2" href=""><i
+                                        class="fa fa-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -508,8 +540,10 @@
                         <div class="portfolio-text">
                             <h4 class="text-white mb-4">Irrigation & Drainage</h4>
                             <div class="d-flex">
-                                <a class="btn btn-lg-square rounded-circle mx-2" href="img/service-3.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-lg-square rounded-circle mx-2" href=""><i class="fa fa-link"></i></a>
+                                <a class="btn btn-lg-square rounded-circle mx-2" href="img/service-3.jpg"
+                                    data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                                <a class="btn btn-lg-square rounded-circle mx-2" href=""><i
+                                        class="fa fa-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -520,8 +554,10 @@
                         <div class="portfolio-text">
                             <h4 class="text-white mb-4">Garden Maintenance</h4>
                             <div class="d-flex">
-                                <a class="btn btn-lg-square rounded-circle mx-2" href="img/service-4.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-lg-square rounded-circle mx-2" href=""><i class="fa fa-link"></i></a>
+                                <a class="btn btn-lg-square rounded-circle mx-2" href="img/service-4.jpg"
+                                    data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                                <a class="btn btn-lg-square rounded-circle mx-2" href=""><i
+                                        class="fa fa-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -532,8 +568,10 @@
                         <div class="portfolio-text">
                             <h4 class="text-white mb-4">Green Technology</h4>
                             <div class="d-flex">
-                                <a class="btn btn-lg-square rounded-circle mx-2" href="img/service-5.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-lg-square rounded-circle mx-2" href=""><i class="fa fa-link"></i></a>
+                                <a class="btn btn-lg-square rounded-circle mx-2" href="img/service-5.jpg"
+                                    data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                                <a class="btn btn-lg-square rounded-circle mx-2" href=""><i
+                                        class="fa fa-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -544,8 +582,10 @@
                         <div class="portfolio-text">
                             <h4 class="text-white mb-4">Urban Gardening</h4>
                             <div class="d-flex">
-                                <a class="btn btn-lg-square rounded-circle mx-2" href="img/service-6.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-lg-square rounded-circle mx-2" href=""><i class="fa fa-link"></i></a>
+                                <a class="btn btn-lg-square rounded-circle mx-2" href="img/service-6.jpg"
+                                    data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                                <a class="btn btn-lg-square rounded-circle mx-2" href=""><i
+                                        class="fa fa-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -571,9 +611,12 @@
                             <h4 class="mb-0">Doris Jordan</h4>
                             <p class="text-primary">Landscape Designer</p>
                             <div class="team-social d-flex">
-                                <a class="btn btn-square rounded-circle me-2" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square rounded-circle me-2" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square rounded-circle me-2" href=""><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square rounded-circle me-2" href=""><i
+                                        class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square rounded-circle me-2" href=""><i
+                                        class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square rounded-circle me-2" href=""><i
+                                        class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -585,9 +628,12 @@
                             <h4 class="mb-0">Johnny Ramirez</h4>
                             <p class="text-primary">Garden Designer</p>
                             <div class="team-social d-flex">
-                                <a class="btn btn-square rounded-circle me-2" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square rounded-circle me-2" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square rounded-circle me-2" href=""><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square rounded-circle me-2" href=""><i
+                                        class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square rounded-circle me-2" href=""><i
+                                        class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square rounded-circle me-2" href=""><i
+                                        class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -599,9 +645,12 @@
                             <h4 class="mb-0">Diana Wagner</h4>
                             <p class="text-primary">Senior Gardener</p>
                             <div class="team-social d-flex">
-                                <a class="btn btn-square rounded-circle me-2" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square rounded-circle me-2" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square rounded-circle me-2" href=""><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square rounded-circle me-2" href=""><i
+                                        class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square rounded-circle me-2" href=""><i
+                                        class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square rounded-circle me-2" href=""><i
+                                        class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -619,20 +668,25 @@
                 <div class="col-lg-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p class="fs-5 fw-bold text-primary">Testimonial</p>
                     <h1 class="display-5 mb-5">What Our Clients Say About Us!</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit sed stet lorem sit clita duo justo.</p>
+                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam
+                        et eos. Clita erat ipsum et lorem et sit sed stet lorem sit clita duo justo.</p>
                     <a class="btn btn-primary py-3 px-4" href="">See More</a>
                 </div>
                 <div class="col-lg-7 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="owl-carousel testimonial-carousel">
                         <div class="testimonial-item">
                             <img class="img-fluid rounded mb-3" src="img/testimonial-1.jpg" alt="">
-                            <p class="fs-5">Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat.</p>
+                            <p class="fs-5">Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore
+                                lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat.
+                            </p>
                             <h4>Client Name</h4>
                             <span>Profession</span>
                         </div>
                         <div class="testimonial-item">
                             <img class="img-fluid rounded mb-3" src="img/testimonial-2.jpg" alt="">
-                            <p class="fs-5">Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat.</p>
+                            <p class="fs-5">Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore
+                                lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat.
+                            </p>
                             <h4>Client Name</h4>
                             <span>Profession</span>
                         </div>
@@ -654,10 +708,14 @@
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
                     <div class="d-flex pt-2">
-                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href=""><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href=""><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href=""><i class="fab fa-youtube"></i></a>
-                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href=""><i class="fab fa-linkedin-in"></i></a>
+                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href=""><i
+                                class="fab fa-twitter"></i></a>
+                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href=""><i
+                                class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href=""><i
+                                class="fab fa-youtube"></i></a>
+                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href=""><i
+                                class="fab fa-linkedin-in"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
@@ -680,8 +738,10 @@
                     <h4 class="text-white mb-4">Newsletter</h4>
                     <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
                     <div class="position-relative w-100">
-                        <input class="form-control bg-light border-light w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
-                        <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
+                        <input class="form-control bg-light border-light w-100 py-3 ps-4 pe-5" type="text"
+                            placeholder="Your email">
+                        <button type="button"
+                            class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
                     </div>
                 </div>
             </div>
@@ -699,7 +759,8 @@
                 </div>
                 <div class="col-md-6 text-center text-md-end">
                     <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                    Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a> Distributed By <a href="https://themewagon.com">ThemeWagon</a>
+                    Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a> Distributed By <a
+                        href="https://themewagon.com">ThemeWagon</a>
                 </div>
             </div>
         </div>
@@ -708,7 +769,8 @@
 
 
     <!-- Back to Top -->
-    <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i class="bi bi-arrow-up"></i></a>
+    <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i
+            class="bi bi-arrow-up"></i></a>
 
 
     <!-- JavaScript Libraries -->
